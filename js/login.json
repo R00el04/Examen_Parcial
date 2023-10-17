@@ -1,0 +1,11 @@
+{
+    "usuario": [
+      {
+        "id": 1,
+        "nombre": "Jose Sosa",
+        "correo": "josesos@example.com",
+        "contrasena": "admin123"
+      }
+    ]
+  }
+  
